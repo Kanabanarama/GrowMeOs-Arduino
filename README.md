@@ -3,4 +3,4 @@ GrowMeOs-Arduino
 
 Wiring:
 
-![Wiring](kanabanarama.github.com/GrowMeOs-Arduino/gfx/wiring01.jpg)
+![Wiring](gfx/wiring01.jpg)
