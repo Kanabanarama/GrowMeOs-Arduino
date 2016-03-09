@@ -6,7 +6,7 @@
 // SETTINGS:
 #define INTERVAL 600    // interval between switching
 #define DURATION 20     // turn on for 15 seconds
-int relayPin     = 13;  // Relay data pin
+int relayPin     = 8;  // Relay data pin
 int relayOnState = LOW; // ON state for relay (LOW for most relay shields)
 
 unsigned long intervalMs;  
